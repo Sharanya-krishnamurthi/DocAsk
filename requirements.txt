@@ -1,0 +1,6 @@
+gradio==3.16.0
+google-api-core
+google-genai==1.7.0
+pdfplumber==0.7.4
+chromadb==0.6.3
+pillow==9.5.0  # Added to ensure compatibility with pdfplumber
