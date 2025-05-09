@@ -89,3 +89,6 @@ Built with ❤️ using Gemini, Gradio, and ChromaDB by \Sharanya Krishnamurthi.
 
 ---
 
+## DEMO
+[HuggingFace Spaces](https://huggingface.co/spaces/sharanya/DocQA)
+
